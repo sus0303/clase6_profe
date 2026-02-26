@@ -19,8 +19,8 @@ try:
 except:
     pass
 
-st.subheader("Una pequeña Fábula.")
-st.write('¡La ignorancia es la noche de la mente: pero una noche sin luna y sin estrellas.' 
+st.subheader("La Luna")
+st.write('La ignorancia es la noche de la mente: pero una noche sin luna y sin estrellas.' 
          ' '
          'Confucio'
         
